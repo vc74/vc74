@@ -26,7 +26,7 @@ I'm a Computer Science undergraduate (2023–2027) interested in building intell
 | Project | What it does | Stack |
 |---|---|---|
 | [Breast Cancer Classification](https://github.com/vc74/Breast-Detection-And-Survival.) | Classifies breast tumors using the Wisconsin Breast Cancer dataset, with SHAP-based explanations and a Streamlit interface. | Python, scikit-learn, SHAP, Streamlit |
-| [Next Word Prediction](https://github.com/vc74/NEXT-WORD-PREDICTION-MOD) | Experiments with next-word prediction using tokenization, padded sequences, embeddings, RNN, LSTM and GRU. | Python, TensorFlow, Keras, NLP |
+| [Text Generation with LSTM & GRU](https://github.com/vc74/NEXT-WORD-PREDICTION-MODEL) | Experiments with next-word prediction using tokenization, padded sequences, embeddings, RNN, LSTM and GRU. | Python, TensorFlow, Keras, NLP |
 | [Heart Disease Prediction](https://github.com/vc74/heart-disease) | Streamlit application using a trained KNN model and scaled health-related input features. | Python, scikit-learn, Streamlit |
 | [AI Chatbot](https://github.com/vc74/Chatbot) | Conversational application with Groq-hosted Llama model, authentication, session history and usage analytics. | Python, Flask, Groq API, SQLite |
 | [Real-Time Chat Simulator](https://github.com/vc74/chat-simulator) | WhatsApp-style messaging prototype with WebSocket-based real-time communication. | Python, FastAPI, WebSocket, JavaScript |
