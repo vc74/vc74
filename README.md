@@ -1,73 +1,121 @@
 <div align="center">
 
-# Vaibhav Chaudhary
+# VAIBHAV CHAUDHARY
 
 ### Aspiring AI/ML Engineer
 
-**Machine Learning · Deep Learning · NLP · Generative AI**
+**Building intelligent applications with Machine Learning, Deep Learning & Generative AI**
 
-I build and document practical software projects while growing my skills in machine learning and AI-powered applications.
-
-[![GitHub](https://img.shields.io/badge/GitHub-vc74-181717?style=flat&logo=github)](https://github.com/vc74)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/vaibhav-chaudhary-91833a232)
-[![LeetCode](https://img.shields.io/badge/LeetCode-vaibhav7404-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/vaibhav7404/)
+[![GitHub](https://img.shields.io/badge/GitHub-vc74-181717?style=for-the-badge&logo=github)](https://github.com/vc74)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vaibhav-chaudhary-91833a232)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/vaibhav7404/)
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I'm a Computer Science undergraduate (2023–2027) focused on developing a strong foundation in machine learning and building end-to-end applications.
+I'm a Computer Science undergraduate (2023–2027) focused on **Machine Learning and AI Engineering**. I enjoy taking concepts beyond theory—building models, creating usable applications, evaluating results, and documenting what I learn.
 
-- Working with **Python, C++ and SQL**
-- Building ML projects with **scikit-learn, TensorFlow/Keras and Streamlit**
-- Exploring **NLP, LLM applications, embeddings and Retrieval-Augmented Generation (RAG)**
-- Learning to build and deploy applications using **FastAPI, REST APIs and Docker**
-- Practising problem solving and Data Structures & Algorithms in C++
+- Developing with **Python, C++ and SQL**
+- Building ML and deep learning projects using **scikit-learn, TensorFlow and Keras**
+- Creating interactive applications with **Streamlit, Flask and FastAPI**
+- Exploring **LLMs, Generative AI, embeddings and Retrieval-Augmented Generation (RAG)**
+- Learning application deployment with **REST APIs and Docker**
+- Practising Data Structures & Algorithms to strengthen problem-solving
 
-## Featured Projects
+## Selected Projects
 
-| Project | Overview | Technologies |
-|---|---|---|
-| [Breast Cancer Classification](https://github.com/vc74/Breast-Detection-And-Survival.) | ML classification on the Wisconsin Breast Cancer dataset, with model evaluation, SHAP explanations and a Streamlit interface. | Python · scikit-learn · SHAP · Streamlit |
-| [AI Chatbot](https://github.com/vc74/Chatbot) | Chat application using a Groq-hosted Llama model, with authentication, chat sessions and usage analytics. | Python · Flask · Groq API · SQLite |
-| [Text Generation with LSTM & GRU](https://github.com/vc74/NEXT-WORD-PREDICTION-MODEL) | Experiments with text generation and next-word prediction using neural sequence models. | Python · TensorFlow · Keras · NLP |
-| [Heart Disease Prediction](https://github.com/vc74/heart-disease) | A Streamlit application that serves predictions from a trained KNN classification model. | Python · scikit-learn · Streamlit |
-| [Real-Time Chat Simulator](https://github.com/vc74/chat-simulator) | A messaging prototype built around FastAPI and WebSockets. | Python · FastAPI · WebSocket · JavaScript |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧬 Breast Cancer Classification</h3>
+      <p>Machine learning classification using the Wisconsin Breast Cancer dataset, with model evaluation, SHAP explanations and a Streamlit interface.</p>
+      <p><strong>Highlights:</strong> 97.37% test accuracy in the documented experiment.</p>
+      <p><sub>Python · scikit-learn · SHAP · Streamlit</sub></p>
+      <a href="https://github.com/vc74/Breast-Detection-And-Survival.">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Chatbot</h3>
+      <p>Conversational web application using a Groq-hosted Llama model, with authentication, chat sessions, SQLite storage and usage analytics.</p>
+      <p><sub>Python · Flask · Groq API · SQLite</sub></p>
+      <a href="https://github.com/vc74/Chatbot">Explore repository →</a>
+      · <a href="https://chatbot-beta-nine-11.vercel.app">Live demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Text Generation with LSTM & GRU</h3>
+      <p>Neural sequence-model experiments for text generation and next-word prediction, including tokenization and sequence preparation.</p>
+      <p><sub>Python · TensorFlow · Keras · NLP</sub></p>
+      <a href="https://github.com/vc74/NEXT-WORD-PREDICTION-MODEL">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>❤️ Heart Disease Prediction</h3>
+      <p>Interactive prediction application serving a trained KNN classification model with scaled input features.</p>
+      <p><sub>Python · scikit-learn · Streamlit</sub></p>
+      <a href="https://github.com/vc74/heart-disease">Explore repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 Real-Time Chat Simulator</h3>
+      <p>Messaging prototype using WebSockets for real-time communication, with a FastAPI backend and browser interface.</p>
+      <p><sub>Python · FastAPI · WebSocket · JavaScript</sub></p>
+      <a href="https://github.com/vc74/chat-simulator">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 DSA Practice</h3>
+      <p>Collection of problem-solving exercises and LeetCode solutions as I strengthen core data structures and algorithms.</p>
+      <p><sub>C++ · Data Structures · Algorithms</sub></p>
+      <a href="https://github.com/vc74/LEETCODE-PROBLEMS">Explore repository →</a>
+    </td>
+  </tr>
+</table>
 
-## Skills
+## Technical Toolkit
 
-**Programming**  
-Python · C++ · SQL · JavaScript
+| Area | Tools & Technologies |
+|---|---|
+| Languages | Python, C++, SQL, JavaScript |
+| Data & ML | NumPy, Pandas, scikit-learn, model evaluation, preprocessing |
+| Deep Learning & NLP | TensorFlow, Keras, ANN, RNN, LSTM, GRU, tokenization, embeddings |
+| AI & GenAI | LLM application concepts, prompt engineering, RAG exploration |
+| Backend & Apps | FastAPI, Flask, Streamlit, REST APIs |
+| Developer Tools | Git, GitHub, Jupyter Notebook, Docker |
 
-**Machine Learning & Data**  
-scikit-learn · Pandas · NumPy · data preprocessing · model evaluation
+## Current Learning Roadmap
 
-**Deep Learning & NLP**  
-TensorFlow · Keras · ANN · RNN · LSTM · GRU · tokenization · embeddings
+- Building stronger end-to-end machine learning projects
+- Deepening understanding of LLMs, RAG and retrieval systems
+- Developing APIs and deploying AI-powered applications
+- Improving software engineering practices, testing and documentation
+- Consistent DSA practice in C++
 
-**Application Development & Tools**  
-Streamlit · FastAPI · Flask · REST APIs · Git · GitHub · Jupyter Notebook · Docker
+## GitHub Activity
 
-**Currently exploring**  
-Generative AI · LLM applications · RAG · semantic retrieval · model deployment
+<div align="center">
 
-## Current Focus
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vc74&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vc74&layout=compact&hide_border=true" alt="Most used languages" />
 
-- Turning ML concepts into complete, well-documented projects
-- Strengthening model evaluation and deployment skills
-- Learning practical GenAI application development
-- Improving problem-solving skills through C++ and DSA
+<img src="https://streak-stats.demolab.com?user=vc74&hide_border=true" alt="GitHub contribution streak" />
 
-## Let's Connect
+</div>
 
-- **LinkedIn:** [Vaibhav Chaudhary](https://www.linkedin.com/in/vaibhav-chaudhary-91833a232)
-- **LeetCode:** [vaibhav7404](https://leetcode.com/u/vaibhav7404/)
-- **GitHub:** [@vc74](https://github.com/vc74)
+## Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/vaibhav-chaudhary-91833a232](https://www.linkedin.com/in/vaibhav-chaudhary-91833a232)
+- **LeetCode:** [leetcode.com/u/vaibhav7404](https://leetcode.com/u/vaibhav7404/)
+- **GitHub:** [github.com/vc74](https://github.com/vc74)
 
 ---
 
 <div align="center">
-  <sub>Always learning, building and improving — one project at a time.</sub>
+
+**Learn consistently. Build thoughtfully. Improve every day.**
+
+<sub>Open to learning, collaboration and relevant AI/ML opportunities.</sub>
+
 </div>
