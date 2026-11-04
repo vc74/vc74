@@ -68,7 +68,7 @@ Computer Science undergraduate (2023–2027), focused on **Machine Learning and 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,fastapi,flask,tensorflow,sklearn,pytorch,mysql,postgres,redis,docker,git,github,vscode&perline=9" alt="Technology icons" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,fastapi,flask,tensorflow,sklearn,mysql,postgres,redis,docker,git,github,jupyter&perline=9" alt="Technology icons" />
 
 </div>
 
